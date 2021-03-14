@@ -1,4 +1,6 @@
-![logoMyTrips](https://user-images.githubusercontent.com/71772559/111078283-6e64d580-84d3-11eb-9b37-9f19b9468397.png)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/71772559/111078283-6e64d580-84d3-11eb-9b37-9f19b9468397.png" width="500" />
+</p>
 
 > A simple website to show pinned places that you went or you want to go
 
